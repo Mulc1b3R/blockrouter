@@ -108,6 +108,22 @@ var EVMJson=[{
     "name": "Kotti Ether",
     "symbol": "KOT",
     "decimals": 18
+    }, {
+  "name": "Sepolia Testnet Testnet",
+  "chain": "SEP",
+  "network": "mainnet",
+  "rpc": ["https://rpc2.sepolia.org"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Etherium",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://sepolia.etherscan.io/",
+  "shortName": "Sep",
+  "chainId": 11155111,
+  "networkId": 1 ,
+  "slip44": 40
   },
   "infoURL": "https://explorer.jade.builders/?network=kotti",
   "shortName": "kot",
