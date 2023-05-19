@@ -108,7 +108,12 @@ var EVMJson=[{
     "name": "Kotti Ether",
     "symbol": "KOT",
     "decimals": 18
-    }, {
+  },
+  "infoURL": "https://explorer.jade.builders/?network=kotti",
+  "shortName": "kot",
+  "chainId": 6,
+  "networkId": 6
+  }, {
   "name": "Sepolia Testnet Testnet",
   "chain": "SEP",
   "network": "mainnet",
@@ -124,11 +129,6 @@ var EVMJson=[{
   "chainId": 11155111,
   "networkId": 1 ,
   "slip44": 40
-  },
-  "infoURL": "https://explorer.jade.builders/?network=kotti",
-  "shortName": "kot",
-  "chainId": 6,
-  "networkId": 6
 }, {
   "name": "ThaiChain",
   "chain": "TCH",
