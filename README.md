@@ -227,10 +227,11 @@ choose the chain you want to add and click the 'ADD' button.
 * Harmony Mainnet Shard 2	1666600002	https://www.harmony.one/	
 * Harmony Mainnet Shard 3	1666600003	https://www.harmony.one/	
 * Harmony Testnet Shard 0	1666700000	https://www.harmony.one/	
-Harmony Testnet Shard 1	1666700001	https://www.harmony.one/	
-Harmony Testnet Shard 2	1666700002	https://www.harmony.one/	
-Harmony Testnet Shard 3	1666700003	https://www.harmony.one/	
-Pirl	3125659152	https://pirl.io	
-OneLedger Frankenstein Testnet	4216137055	https://oneledger.io	
-Palm Testnet	11297108099	https://palm.io	
-Palm Mainnet	11297108109	https://palm.io
+* Harmony Testnet Shard 1	1666700001	https://www.harmony.one/	
+* Harmony Testnet Shard 2	1666700002	https://www.harmony.one/	
+* Harmony Testnet Shard 3	1666700003	https://www.harmony.one/	
+* Pirl	3125659152	https://pirl.io	
+* OneLedger Frankenstein Testnet	4216137055	https://oneledger.io	
+* Palm Testnet	11297108099	https://palm.io	
+* Palm Mainnet	11297108109	https://palm.io
+*************************************************************************************************************************
