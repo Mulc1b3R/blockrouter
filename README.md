@@ -37,18 +37,18 @@ choose the chain you want to add and click the 'ADD' button.
 * ThaiChain 2.0 ThaiFi	17	https://exp.thaifi.com	
 * ThunderCore Testnet	18	https://thundercore.com	
 * Songbird Canary-Network	19	https://flare.xyz	
-ELA-ETH-Sidechain Mainnet	20	https://www.elastos.org/	
-ELA-ETH-Sidechain Testnet	21	https://elaeth.io/	
-ELA-DID-Sidechain Mainnet	22	https://www.elastos.org/	
-ELA-DID-Sidechain Testnet	23	https://elaeth.io/	
-RSK Mainnet	30	https://rsk.co	
-RSK Testnet	31	https://rsk.co	
-GoodData Testnet	32	https://www.goodata.org	
-GoodData Mainnet	33	https://www.goodata.org	
-TBWG Chain	35	https://tbwg.io	
-Valorbit	38	https://valorbit.com	
-Telos EVM Mainnet	40	https://telos.net	
-Telos EVM Testnet	41	https://telos.net	
+* ELA-ETH-Sidechain Mainnet	20	https://www.elastos.org/	
+* ELA-ETH-Sidechain Testnet	21	https://elaeth.io/	
+* ELA-DID-Sidechain Mainnet	22	https://www.elastos.org/	
+* ELA-DID-Sidechain Testnet	23	https://elaeth.io/	
+* RSK Mainnet	30	https://rsk.co	
+* RSK Testnet	31	https://rsk.co	
+* GoodData Testnet	32	https://www.goodata.org	
+* GoodData Mainnet	33	https://www.goodata.org	
+* TBWG Chain	35	https://tbwg.io	
+* Valorbit	38	https://valorbit.com	
+* Telos EVM Mainnet	40	https://telos.net	
+* Telos EVM Testnet	41	https://telos.net	
 Ethereum Testnet Kovan	42	https://kovan-testnet.github.io/website	
 Darwinia Pangolin Testnet	43	https://darwinia.network/	
 Darwinia Crab Network	44	https://crab.network/	
