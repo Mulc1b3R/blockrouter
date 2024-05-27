@@ -64,23 +64,23 @@ choose the chain you want to add and click the 'ADD' button.
 * Ethereum Classic Mainnet	61	https://ethereumclassic.org	
 * Ethereum Classic Testnet Morden	62	https://ethereumclassic.org	
 * Ethereum Classic Testnet Mordor	63	https://github.com/eth-classic/mordor/	
-Ellaism	64	https://ellaism.org	
-OKExChain Testnet	65	https://www.okex.com/okexchain	
-OKExChain Mainnet	66	https://www.okex.com/okexchain	
-DBChain Testnet	67	http://test.dbmbp.com	
-SoterOne Mainnet	68	https://www.soterone.com	
-Optimistic Ethereum Testnet Kovan	69	https://optimism.io	
-Mix	76	https://mix-blockchain.org	
-POA Network Sokol	77	https://poa.network	
-PrimusChain mainnet	78	https://primusmoney.com	
-GeneChain	80	https://scan.genechain.io/	
-Meter Mainnet	82	https://www.meter.io	
-GateChain Testnet	85	https://www.gatechain.io	
-GateChain Mainnet	86	https://www.gatechain.io	
-TomoChain	88	https://tomocoin.io	
-CryptoKylin Testnet	95	https://www.cryptokylin.io/	
-Binance Smart Chain Testnet	97	https://testnet.binance.org/	
-POA Network Core	99	https://poa.network	
+* Ellaism	64	https://ellaism.org	
+* OKExChain Testnet	65	https://www.okex.com/okexchain	
+* OKExChain Mainnet	66	https://www.okex.com/okexchain	
+* DBChain Testnet	67	http://test.dbmbp.com	
+* SoterOne Mainnet	68	https://www.soterone.com	
+* Optimistic Ethereum Testnet Kovan	69	https://optimism.io	
+* Mix	76	https://mix-blockchain.org	
+* POA Network Sokol	77	https://poa.network	
+* PrimusChain mainnet	78	https://primusmoney.com	
+* GeneChain	80	https://scan.genechain.io/	
+* Meter Mainnet	82	https://www.meter.io	
+* GateChain Testnet	85	https://www.gatechain.io	
+* GateChain Mainnet	86	https://www.gatechain.io	
+* TomoChain	88	https://tomocoin.io	
+* CryptoKylin Testnet	95	https://www.cryptokylin.io/	
+* Binance Smart Chain Testnet	97	https://testnet.binance.org/	
+* POA Network Core	99	https://poa.network	
 xDAI Chain	100	https://forum.poa.network/c/xdai-chain	
 EtherInc	101	https://einc.io	
 Web3Games Testnet	102	https://web3games.org/	
