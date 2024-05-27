@@ -1,42 +1,42 @@
 # blockrouter
 
-Move effortlessly accross blockchains.
+Move effortlessly across sidechains.
 Metamask is required as a browser extension.
 ***********************************************************************************************************
 ![blok](block-router.png)
 ***********************************************************************************************************
-To add block chains to metamask visit
+To add side chains to metamask visit
 live demo at ; https://blockrouter.vercel.app
 choose the chain you want to add and click the 'ADD' button.
 ***********************************************************************************************************
 *  Web3 enabled - auto detects Metamask wallet.
-*  Add blockchains to Metamask at the click of a button.
+*  Add sidechains to Metamask at the click of a button.
 *  Massive selection of chains.
 *  Quick and simple , no configuration.
 *  Once you have added the new chain , just select it in metamask to switch .
 ***********************************************************************************************************  
 # Currently supported
 
-Ethereum Mainnet	1	https://ethereum.org	
-Expanse Network	2	https://expanse.tech	
-Ethereum Testnet Ropsten	3	https://github.com/ethereum/ropsten	
-Ethereum Testnet Rinkeby	4	https://www.rinkeby.io	
-Ethereum Testnet Görli	5	https://goerli.net/#about	
-Ethereum Classic Testnet Kotti	6	https://explorer.jade.builders/?network=kotti	
-Sepolia Testnet Testnet	11155111	https://sepolia.etherscan.io/	
-ThaiChain	7	https://thaichain.io	
-Ubiq	8	https://ubiqsmart.com	
-Ubiq Network Testnet	9	https://ethersocial.org	
-Optimistic Ethereum	10	https://optimism.io	
-Metadium Mainnet	11	https://metadium.com	
-Metadium Testnet	12	https://metadium.com	
-Diode Testnet Staging	13	https://diode.io/staging	
-Flare Mainnet	14	https://flare.xyz	
-Diode Prenet	15	https://diode.io/prenet	
-Flare Testnet Coston	16	https://github.com/flare-eng/coston	
-ThaiChain 2.0 ThaiFi	17	https://exp.thaifi.com	
-ThunderCore Testnet	18	https://thundercore.com	
-Songbird Canary-Network	19	https://flare.xyz	
+* Ethereum Mainnet	1	https://ethereum.org	
+* Expanse Network	2	https://expanse.tech	
+* Ethereum Testnet Ropsten	3	https://github.com/ethereum/ropsten	
+* Ethereum Testnet Rinkeby	4	https://www.rinkeby.io	
+* Ethereum Testnet Görli	5	https://goerli.net/#about	
+* Ethereum Classic Testnet Kotti	6	https://explorer.jade.builders/?network=kotti	
+* Sepolia Testnet Testnet	11155111	https://sepolia.etherscan.io/	
+* ThaiChain	7	https://thaichain.io	
+* Ubiq	8	https://ubiqsmart.com	
+* Ubiq Network Testnet	9	https://ethersocial.org	
+* Optimistic Ethereum	10	https://optimism.io	
+* Metadium Mainnet	11	https://metadium.com	
+* Metadium Testnet	12	https://metadium.com	
+* Diode Testnet Staging	13	https://diode.io/staging	
+* Flare Mainnet	14	https://flare.xyz	
+* Diode Prenet	15	https://diode.io/prenet	
+* Flare Testnet Coston	16	https://github.com/flare-eng/coston	
+* ThaiChain 2.0 ThaiFi	17	https://exp.thaifi.com	
+* ThunderCore Testnet	18	https://thundercore.com	
+* Songbird Canary-Network	19	https://flare.xyz	
 ELA-ETH-Sidechain Mainnet	20	https://www.elastos.org/	
 ELA-ETH-Sidechain Testnet	21	https://elaeth.io/	
 ELA-DID-Sidechain Mainnet	22	https://www.elastos.org/	
