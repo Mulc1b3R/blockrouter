@@ -109,61 +109,61 @@ choose the chain you want to add and click the 'ADD' button.
 * Theta Sapphire Testnet	363	https://www.thetatoken.org/	
 * Theta Amber Testnet	364	https://www.thetatoken.org/	
 * Theta Testnet	365	https://www.thetatoken.org/	
-Lisinski	385	https://lisinski.online	
-Optimistic Ethereum Testnet Goerli	420	https://optimism.io	
-Rupaya	499	https://www.rupx.io	
-Tao Network	558	https://tao.network	
-Acala Mandala Testnet	595	https://acala.network	
-Karura Network	686	https://karura.network	
-Factory 127 Testnet	721	https://www.factory127.com	
-cheapETH	777	https://cheapeth.org/	
-Acala Network	787	https://acala.network	
-Haic	803	https://www.haichain.io/	
-Callisto Mainnet	820	https://callisto.network	
-Callisto Testnet	821	https://callisto.network	
-Wanchain	888	https://www.wanscan.org	
-Nepal Blockchain Network	977	https://nepalblockchain.network	
-Wanchain Testnet	999	https://testnet.wanscan.org	
-Klaytn Testnet Baobab	1001	https://www.klaytn.com/	
-Newton Testnet	1007	https://www.newtonproject.org/	
-Evrice Network	1010	https://evrice.com	
-Newton	1012	https://www.newtonproject.org/	
-Sakura	1022	https://clover.finance/sakura	
-Clover Testnet	1023	https://clover.finance	
-Clover Mainnet	1024	https://clover.finance	
-MathChain	1139	https://mathchain.org	
-MathChain Testnet	1140	https://mathchain.org	
-Moonbeam	1284	https://moonbeam.network/networks/moonbeam/	
-Moonriver	1285	https://moonbeam.network/networks/moonriver/	
-Moonrock	1286		
-Moonbase Alpha	1287	https://docs.moonbeam.network/networks/testnet/	
-Moonshadow	1288	https://docs.moonbeam.network/networks/overview/	
-Catecoin Chain Mainnet	1618	https://catechain.com	
-Atheios	1620	https://atheios.com	
-Teslafunds	1856	https://teslafunds.io	
-EtherGem	1987	https://egem.io	
-420coin	2020	https://420integrated.com	
-Edgeware Mainnet	2021	http://edgewa.re	
-Beresheet Testnet	2022	http://edgewa.re	
-Kortho Mainnet	2559	https://www.kortho.io/	
-IoTeX Network Mainnet	4689	https://iotex.io	
-IoTeX Network Testnet	4690	https://iotex.io	
-EraSwap Mainnet	5197	https://eraswap.info/	
-Syscoin Tanenbaum Testnet	5700	https://syscoin.org	
-Ontology Testnet	5851	https://ont.io/	
-Wegochain Rubidium Mainnet	5869	http://wegochain.io	
-MDGL Testnet	8029	https://mdgl.io	
-GeneChain Adenine Testnet	8080	https://scan-testnet.genechain.io/	
-Klaytn Mainnet Cypress	8217	https://www.klaytn.com/	
-KorthoTest	8285	https://www.kortho.io/	
-TOOL Global Mainnet	8723	https://ibdt.io	
-TOOL Global Testnet	8724	https://testnet-explorer.wolot.io	
-bloxberg	8995	https://bloxberg.org	
-Smart Bitcoin Cash	10000	https://smartbch.org/	
-Smart Bitcoin Cash Testnet	10001	http://smartbch.org/	
-Blockchain Genesis Mainnet	10101	https://www.xixoio.com/	
-MetaDot Mainnet	16000	https://metadot.network	
-MetaDot Testnet	16001	https://metadot.network	
+* Lisinski	385	https://lisinski.online	
+* Optimistic Ethereum Testnet Goerli	420	https://optimism.io	
+* Rupaya	499	https://www.rupx.io	
+* Tao Network	558	https://tao.network	
+* Acala Mandala Testnet	595	https://acala.network	
+* Karura Network	686	https://karura.network	
+* Factory 127 Testnet	721	https://www.factory127.com	
+* cheapETH	777	https://cheapeth.org/	
+* Acala Network	787	https://acala.network	
+* Haic	803	https://www.haichain.io/	
+* Callisto Mainnet	820	https://callisto.network	
+* Callisto Testnet	821	https://callisto.network	
+* Wanchain	888	https://www.wanscan.org	
+* Nepal Blockchain Network	977	https://nepalblockchain.network	
+* Wanchain Testnet	999	https://testnet.wanscan.org	
+* Klaytn Testnet Baobab	1001	https://www.klaytn.com/	
+* Newton Testnet	1007	https://www.newtonproject.org/	
+* Evrice Network	1010	https://evrice.com	
+* Newton	1012	https://www.newtonproject.org/	
+* Sakura	1022	https://clover.finance/sakura	
+* Clover Testnet	1023	https://clover.finance	
+* Clover Mainnet	1024	https://clover.finance	
+* MathChain	1139	https://mathchain.org	
+* MathChain Testnet	1140	https://mathchain.org	
+* Moonbeam	1284	https://moonbeam.network/networks/moonbeam/	
+* Moonriver	1285	https://moonbeam.network/networks/moonriver/	
+* Moonrock	1286		
+* Moonbase Alpha	1287	https://docs.moonbeam.network/networks/testnet/	
+* Moonshadow	1288	https://docs.moonbeam.network/networks/overview/	
+* Catecoin Chain Mainnet	1618	https://catechain.com	
+* Atheios	1620	https://atheios.com	
+* Teslafunds	1856	https://teslafunds.io	
+* EtherGem	1987	https://egem.io	
+* 420coin	2020	https://420integrated.com	
+* Edgeware Mainnet	2021	http://edgewa.re	
+* Beresheet Testnet	2022	http://edgewa.re	
+* Kortho Mainnet	2559	https://www.kortho.io/	
+* IoTeX Network Mainnet	4689	https://iotex.io	
+* IoTeX Network Testnet	4690	https://iotex.io	
+* EraSwap Mainnet	5197	https://eraswap.info/	
+* Syscoin Tanenbaum Testnet	5700	https://syscoin.org	
+* Ontology Testnet	5851	https://ont.io/	
+* Wegochain Rubidium Mainnet	5869	http://wegochain.io	
+* MDGL Testnet	8029	https://mdgl.io	
+* GeneChain Adenine Testnet	8080	https://scan-testnet.genechain.io/	
+* Klaytn Mainnet Cypress	8217	https://www.klaytn.com/	
+* KorthoTest	8285	https://www.kortho.io/	
+* TOOL Global Mainnet	8723	https://ibdt.io	
+* TOOL Global Testnet	8724	https://testnet-explorer.wolot.io	
+* bloxberg	8995	https://bloxberg.org	
+* Smart Bitcoin Cash	10000	https://smartbch.org/	
+* Smart Bitcoin Cash Testnet	10001	http://smartbch.org/	
+* Blockchain Genesis Mainnet	10101	https://www.xixoio.com/	
+* MetaDot Mainnet	16000	https://metadot.network	
+* MetaDot Testnet	16001	https://metadot.network	
 Webchain	24484	https://webchain.network	
 MintMe.com Coin	24734	https://www.mintme.com	
 Ethersocial Network	31102	https://ethersocial.org	
