@@ -81,34 +81,34 @@ choose the chain you want to add and click the 'ADD' button.
 * CryptoKylin Testnet	95	https://www.cryptokylin.io/	
 * Binance Smart Chain Testnet	97	https://testnet.binance.org/	
 * POA Network Core	99	https://poa.network	
-xDAI Chain	100	https://forum.poa.network/c/xdai-chain	
-EtherInc	101	https://einc.io	
-Web3Games Testnet	102	https://web3games.org/	
-ThunderCore Mainnet	108	https://thundercore.com	
-Proton Testnet	110	https://protonchain.com	
-EtherLite Chain	111	https://etherlite.org	
-Fuse Mainnet	122	https://fuse.io/	
-Decentralized Web Mainnet	124	https://decentralized-web.tech/dw_chain.php	
-Factory 127 Mainnet	127	https://www.factory127.com	
-Huobi ECO Chain Mainnet	128	https://www.hecochain.com	
-Matic(Polygon) Mainnet	137	https://matic.network/	
-DAX CHAIN	142	https://prodax.io/	
-Lightstreams Testnet	162	https://explorer.sirius.lightstreams.io	
-Lightstreams Mainnet	163	https://explorer.lightstreams.io	
-HOO Smart Chain Testnet	170	https://www.hoosmartchain.com	
-Latam-Blockchain Resil Testnet	172	https://latam-blockchain.com	
-Arbitrum on xDai	200	https://xdaichain.com	
-Freight Trust Network	211	https://freighttrust.com	
-Energy Web Chain	246	https://energyweb.org	
-Fantom Opera	250	https://fantom.foundation	
-Huobi ECO Chain Testnet	256	https://testnet.hecoinfo.com	
-High Performance Blockchain	269	https://hpbscan.org/	
-KCC Mainnet	321	https://kcc.io	
-KCC Testnet	322	https://scan-testnet.kcc.network	
-Theta Mainnet	361	https://www.thetatoken.org/	
-Theta Sapphire Testnet	363	https://www.thetatoken.org/	
-Theta Amber Testnet	364	https://www.thetatoken.org/	
-Theta Testnet	365	https://www.thetatoken.org/	
+* xDAI Chain	100	https://forum.poa.network/c/xdai-chain	
+* EtherInc	101	https://einc.io	
+* Web3Games Testnet	102	https://web3games.org/	
+* ThunderCore Mainnet	108	https://thundercore.com	
+* Proton Testnet	110	https://protonchain.com	
+* EtherLite Chain	111	https://etherlite.org	
+* Fuse Mainnet	122	https://fuse.io/	
+* Decentralized Web Mainnet	124	https://decentralized-web.tech/dw_chain.php	
+* Factory 127 Mainnet	127	https://www.factory127.com	
+* Huobi ECO Chain Mainnet	128	https://www.hecochain.com	
+* Matic(Polygon) Mainnet	137	https://matic.network/	
+* DAX CHAIN	142	https://prodax.io/	
+* Lightstreams Testnet	162	https://explorer.sirius.lightstreams.io	
+* Lightstreams Mainnet	163	https://explorer.lightstreams.io	
+* HOO Smart Chain Testnet	170	https://www.hoosmartchain.com	
+* Latam-Blockchain Resil Testnet	172	https://latam-blockchain.com	
+* Arbitrum on xDai	200	https://xdaichain.com	
+* Freight Trust Network	211	https://freighttrust.com	
+* Energy Web Chain	246	https://energyweb.org	
+* Fantom Opera	250	https://fantom.foundation	
+* Huobi ECO Chain Testnet	256	https://testnet.hecoinfo.com	
+* High Performance Blockchain	269	https://hpbscan.org/	
+* KCC Mainnet	321	https://kcc.io	
+* KCC Testnet	322	https://scan-testnet.kcc.network	
+* Theta Mainnet	361	https://www.thetatoken.org/	
+* Theta Sapphire Testnet	363	https://www.thetatoken.org/	
+* Theta Amber Testnet	364	https://www.thetatoken.org/	
+* Theta Testnet	365	https://www.thetatoken.org/	
 Lisinski	385	https://lisinski.online	
 Optimistic Ethereum Testnet Goerli	420	https://optimism.io	
 Rupaya	499	https://www.rupx.io	
