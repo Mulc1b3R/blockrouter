@@ -49,21 +49,21 @@ choose the chain you want to add and click the 'ADD' button.
 * Valorbit	38	https://valorbit.com	
 * Telos EVM Mainnet	40	https://telos.net	
 * Telos EVM Testnet	41	https://telos.net	
-Ethereum Testnet Kovan	42	https://kovan-testnet.github.io/website	
-Darwinia Pangolin Testnet	43	https://darwinia.network/	
-Darwinia Crab Network	44	https://crab.network/	
-XinFin Network Mainnet	50	https://xinfin.org	
-XinFin Apothem Testnet	51	https://xinfin.org	
-CoinEx Smart Chain Mainnet	52	http://www.coinex.org/	
-CoinEx Smart Chain Testnet	53	http://www.coinex.org/	
-Binance Smart Chain Mainnet	56	https://www.binance.org	
-Syscoin Mainnet	57	https://www.syscoin.org	
-Ontology Mainnet	58	https://ont.io/	
-EOS Mainnet	59	https://eoscommunity.org/	
-GoChain	60	https://gochain.io	
-Ethereum Classic Mainnet	61	https://ethereumclassic.org	
-Ethereum Classic Testnet Morden	62	https://ethereumclassic.org	
-Ethereum Classic Testnet Mordor	63	https://github.com/eth-classic/mordor/	
+* Ethereum Testnet Kovan	42	https://kovan-testnet.github.io/website	
+* Darwinia Pangolin Testnet	43	https://darwinia.network/	
+* Darwinia Crab Network	44	https://crab.network/	
+* XinFin Network Mainnet	50	https://xinfin.org	
+* XinFin Apothem Testnet	51	https://xinfin.org	
+* CoinEx Smart Chain Mainnet	52	http://www.coinex.org/	
+* CoinEx Smart Chain Testnet	53	http://www.coinex.org/	
+* Binance Smart Chain Mainnet	56	https://www.binance.org	
+* Syscoin Mainnet	57	https://www.syscoin.org	
+* Ontology Mainnet	58	https://ont.io/	
+* EOS Mainnet	59	https://eoscommunity.org/	
+* GoChain	60	https://gochain.io	
+* Ethereum Classic Mainnet	61	https://ethereumclassic.org	
+* Ethereum Classic Testnet Morden	62	https://ethereumclassic.org	
+* Ethereum Classic Testnet Mordor	63	https://github.com/eth-classic/mordor/	
 Ellaism	64	https://ellaism.org	
 OKExChain Testnet	65	https://www.okex.com/okexchain	
 OKExChain Mainnet	66	https://www.okex.com/okexchain	
