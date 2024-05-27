@@ -3571,3 +3571,4 @@ var EVMJson=[{
   "chainId": 11297108109,
   "networkId": 11297108109
 }];
+//  Copyright © 2023 Psico Communications and Blockchain Development.
