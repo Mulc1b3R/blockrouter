@@ -196,37 +196,37 @@ choose the chain you want to add and click the 'ADD' button.
 * QuarkChain Devnet Shard 0	110001	https://www.quarkchain.io/	
 * QuarkChain Devnet Shard 1	110002	https://www.quarkchain.io/	
 * QuarkChain Devnet Shard 2	110003	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 3	110004	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 4	110005	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 5	110006	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 6	110007	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 7	110008	https://www.quarkchain.io/	
-Akroma	200625	https://akroma.io	
-ARTIS sigma1	246529	https://artis.eco	
-ARTIS Testnet tau1	246785	https://artis.network	
-Polis Testnet	333888	https://polis.tech	
-Polis Mainnet	333999	https://polis.tech	
-Arbitrum Testnet Rinkeby	421611	https://arbitrum.io	
-Ether-1	1313114	https://ether1.org	
-Xerom	1313500	https://xerom.org	
-Musicoin	7762959	https://musicoin.tw	
-PepChain Churchill	13371337	https://pepchain.io	
-IOLite	18289463	https://iolite.io	
-quarkblockchain	20181205	https://quarkblockchain.org/	
-Auxilium Network Mainnet	28945486	https://auxilium.global	
-Joys Digital Mainnet	35855456	https://joys.digital	
-Aquachain	61717561	https://aquachain.github.io	
-Joys Digital TestNet	99415706	https://joys.digital	
-OneLedger Nexus Mainnet	311752642	https://oneledger.io	
-IPOS Network	1122334455	https://iposlab.com	
-Aurora MainNet	1313161554	https://aurora.dev	
-Aurora TestNet	1313161555	https://aurora.dev	
-Aurora BetaNet	1313161556	https://aurora.dev	
-Harmony Mainnet Shard 0	1666600000	https://www.harmony.one/	
-Harmony Mainnet Shard 1	1666600001	https://www.harmony.one/	
-Harmony Mainnet Shard 2	1666600002	https://www.harmony.one/	
-Harmony Mainnet Shard 3	1666600003	https://www.harmony.one/	
-Harmony Testnet Shard 0	1666700000	https://www.harmony.one/	
+* QuarkChain Devnet Shard 3	110004	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 4	110005	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 5	110006	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 6	110007	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 7	110008	https://www.quarkchain.io/	
+* Akroma	200625	https://akroma.io	
+* ARTIS sigma1	246529	https://artis.eco	
+* ARTIS Testnet tau1	246785	https://artis.network	
+* Polis Testnet	333888	https://polis.tech	
+* Polis Mainnet	333999	https://polis.tech	
+* Arbitrum Testnet Rinkeby	421611	https://arbitrum.io	
+* Ether-1	1313114	https://ether1.org	
+* Xerom	1313500	https://xerom.org	
+* Musicoin	7762959	https://musicoin.tw	
+* PepChain Churchill	13371337	https://pepchain.io	
+* IOLite	18289463	https://iolite.io	
+* quarkblockchain	20181205	https://quarkblockchain.org/	
+* Auxilium Network Mainnet	28945486	https://auxilium.global	
+* Joys Digital Mainnet	35855456	https://joys.digital	
+* Aquachain	61717561	https://aquachain.github.io	
+* Joys Digital TestNet	99415706	https://joys.digital	
+* OneLedger Nexus Mainnet	311752642	https://oneledger.io	
+* IPOS Network	1122334455	https://iposlab.com	
+* Aurora MainNet	1313161554	https://aurora.dev	
+* Aurora TestNet	1313161555	https://aurora.dev	
+* Aurora BetaNet	1313161556	https://aurora.dev	
+* Harmony Mainnet Shard 0	1666600000	https://www.harmony.one/	
+* Harmony Mainnet Shard 1	1666600001	https://www.harmony.one/	
+* Harmony Mainnet Shard 2	1666600002	https://www.harmony.one/	
+* Harmony Mainnet Shard 3	1666600003	https://www.harmony.one/	
+* Harmony Testnet Shard 0	1666700000	https://www.harmony.one/	
 Harmony Testnet Shard 1	1666700001	https://www.harmony.one/	
 Harmony Testnet Shard 2	1666700002	https://www.harmony.one/	
 Harmony Testnet Shard 3	1666700003	https://www.harmony.one/	
