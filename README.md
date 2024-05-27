@@ -1,6 +1,6 @@
 # blockrouter
 
-Move effortlessly across sidechains.
+Move effortlessly within the Etherium Ecosystem.
 Metamask is required as a browser extension.
 ***********************************************************************************************************
 ![blok](block-router.png)
