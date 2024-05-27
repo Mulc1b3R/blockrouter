@@ -164,38 +164,38 @@ choose the chain you want to add and click the 'ADD' button.
 * Blockchain Genesis Mainnet	10101	https://www.xixoio.com/	
 * MetaDot Mainnet	16000	https://metadot.network	
 * MetaDot Testnet	16001	https://metadot.network	
-Webchain	24484	https://webchain.network	
-MintMe.com Coin	24734	https://www.mintme.com	
-Ethersocial Network	31102	https://ethersocial.org	
-GoChain Testnet	31337	https://gochain.io	
-Fusion Mainnet	32659	https://www.fusion.org/	
-Energi Mainnet	39797	https://www.energi.world/	
-pegglecoin	42069	https://teampeggle.com	
-Arbitrum One	42161	https://arbitrum.io	
-Celo Mainnet	42220	https://docs.celo.org/	
-Athereum	43110	https://athereum.ava.network	
-Avalanche Fuji Testnet	43113	https://cchain.explorer.avax-test.network	
-Avalanche Mainnet	43114	https://cchain.explorer.avax.network/	
-Celo Alfajores Testnet	44787	https://docs.celo.org/	
-Energi Testnet	49797	https://www.energi.world/	
-Celo Baklava Testnet	62320	https://docs.celo.org/	
-Polyjuice Testnet	71393	https://github.com/nervosnetwork/godwoken	
-Energy Web Volta Testnet	73799	https://energyweb.org	
-Firenze test network	78110	https://primusmoney.com	
-Matic(Polygon) Testnet Mumbai	80001	https://matic.network/	
-QuarkChain Mainnet Root	100000	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 0	100001	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 1	100002	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 2	100003	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 3	100004	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 4	100005	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 5	100006	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 6	100007	https://www.quarkchain.io/	
-QuarkChain Mainnet Shard 7	100008	https://www.quarkchain.io/	
-QuarkChain Devnet Root	110000	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 0	110001	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 1	110002	https://www.quarkchain.io/	
-QuarkChain Devnet Shard 2	110003	https://www.quarkchain.io/	
+* Webchain	24484	https://webchain.network	
+* MintMe.com Coin	24734	https://www.mintme.com	
+* Ethersocial Network	31102	https://ethersocial.org	
+* GoChain Testnet	31337	https://gochain.io	
+* Fusion Mainnet	32659	https://www.fusion.org/	
+* Energi Mainnet	39797	https://www.energi.world/	
+* pegglecoin	42069	https://teampeggle.com	
+* Arbitrum One	42161	https://arbitrum.io	
+* Celo Mainnet	42220	https://docs.celo.org/	
+* Athereum	43110	https://athereum.ava.network	
+* Avalanche Fuji Testnet	43113	https://cchain.explorer.avax-test.network	
+* Avalanche Mainnet	43114	https://cchain.explorer.avax.network/	
+* Celo Alfajores Testnet	44787	https://docs.celo.org/	
+* Energi Testnet	49797	https://www.energi.world/	
+* Celo Baklava Testnet	62320	https://docs.celo.org/	
+* Polyjuice Testnet	71393	https://github.com/nervosnetwork/godwoken	
+* Energy Web Volta Testnet	73799	https://energyweb.org	
+* Firenze test network	78110	https://primusmoney.com	
+* Matic(Polygon) Testnet Mumbai	80001	https://matic.network/	
+* QuarkChain Mainnet Root	100000	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 0	100001	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 1	100002	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 2	100003	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 3	100004	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 4	100005	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 5	100006	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 6	100007	https://www.quarkchain.io/	
+* QuarkChain Mainnet Shard 7	100008	https://www.quarkchain.io/	
+* QuarkChain Devnet Root	110000	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 0	110001	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 1	110002	https://www.quarkchain.io/	
+* QuarkChain Devnet Shard 2	110003	https://www.quarkchain.io/	
 QuarkChain Devnet Shard 3	110004	https://www.quarkchain.io/	
 QuarkChain Devnet Shard 4	110005	https://www.quarkchain.io/	
 QuarkChain Devnet Shard 5	110006	https://www.quarkchain.io/	
