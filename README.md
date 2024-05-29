@@ -6,7 +6,7 @@ Metamask is required as a browser extension.
 ![blok](block-router.png)
 ***********************************************************************************************************
 To add side chains to metamask visit
-live demo at ; https://blockrouter.vercel.app
+live demo at ; https://blockrouter-seven.vercel.app/
 choose the chain you want to add and click the 'ADD' button.
 ***********************************************************************************************************
 *  Web3 enabled - auto detects Metamask wallet.
